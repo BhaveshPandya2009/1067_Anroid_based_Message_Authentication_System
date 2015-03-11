@@ -21,8 +21,8 @@ Additionally, an SMS-based mechanism is implemented as both a backup mechanism f
 and as a possible mean of synchronization. The proposed method has been implemented and tested. 
 Initial results show the success of the proposed method.
 
-7. Install (Installation procedure): Step by step procedure to install software.
 
+7. Install (Installation procedure): Step by step procedure to install software
 • In this project all employee needs to enter username password and auto generated number from admin to log in.
 • If anybody wants to use a computer of another employee then also without that employee permission with the help 
 of mobile message nobody can access that machine.
