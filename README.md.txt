@@ -7,9 +7,11 @@
 
 4. City, State, Pin Code : Borivali –Mumbai, Maharashtra, 400066
 
-5. Name/’s of the Student : Asst. Prof. Bhavesh Pandya, 
 
-6. About (Short Description / Summary): 
+5. Name/’s of the Student : Asst. Prof. Bhavesh Pandya
+
+6. About (Short Description / Summary):
+ 
 This project describes a method of implementing two factor authentication using mobile phones. 
 The proposed method guarantees that authenticating to services, such as online banking or ATM machines, 
 is done in a very secure manner. The proposed system involves using a mobile phone as a software token 
